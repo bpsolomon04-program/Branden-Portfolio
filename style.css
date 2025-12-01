@@ -214,7 +214,6 @@ footer {
     }
 }
 
-/* --- QR CODE STYLING --- */
 .qr-code-container {
     text-align: center; 
     margin-top: 2em;
@@ -235,4 +234,5 @@ footer {
     margin: 10px auto 0;
     border: 5px solid white; 
 }
+
 
