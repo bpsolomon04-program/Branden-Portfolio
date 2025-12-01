@@ -3,7 +3,6 @@ A personal portfolio showcasing my skills in Computer Technology, including netw
 
 The Link to my Porfolio | [Visit the Live Portfolio](https://bpsolomon04-program.github.io/Branden-Portfolio/) |
 
----
 
 ## How to Run Locally
 
@@ -13,7 +12,6 @@ To view this portfolio locally:
     `git clone https://github.com/bpsolomon04-program/Branden-Portfolio.git`
 2.  **Open in Browser:** Navigate to the cloned folder and open the **`index.html`** file directly in any web browser.
 
----
 
 ## Resume & Contact
 
@@ -23,7 +21,6 @@ View or download my updated resume.
 * **Contact Email:** b.p.solomon04@gmail.com
 * **Contact Phone Number:** 240-254-4310
 
----
 
 ## Academic Projects
 
