@@ -1,5 +1,5 @@
 # Branden-Portfolio
-A personal portfolio showcasing my skills in Computer Technology, including networking, Linux administration, and cloud concepts. This site serves as the final project for CTEC 410 (Internet Technology).
+A personal portfolio showcasing my skills in Computer Technology, including networking, Linux administration, and cloud concepts. 
 
 The Link to my Porfolio | [Visit the Live Portfolio](https://bpsolomon04-program.github.io/Branden-Portfolio/) |
 
