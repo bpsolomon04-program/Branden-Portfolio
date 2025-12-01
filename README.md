@@ -25,7 +25,7 @@ View or download my updated resume.
 
 ---
 
-## Academic Projects & Documents
+## Academic Projects
 
 Here is a comprehensive list of key academic documents and projects demonstrating my technical skills. All documents are stored directly in this repository.
 
