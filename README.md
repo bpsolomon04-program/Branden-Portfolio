@@ -33,7 +33,7 @@ Here is a comprehensive list of key academic documents and projects demonstratin
 
 | Assignment | Document Link |
 | :--- | :--- |
-| Docker Containerized Applications | [View PDF](Copy of CTEC 435_ Group Project_Docker Containerized Applications.pdf) |
+| Docker Containerized Applications | (Copy of CTEC 435_ Group Project_Docker Containerized Applications.pdf) |
 | Storage Lab | [View PDF](Storage Lab - Branden Solomon.pdf) |
 | Operations Deployment Lab | [View PDF](Updated Operations Deployment – Lab - Branden Solomon.pdf) |
 | Users & Groups Lab | [View PDF](Users & Groups Lab - Branden Solomon.pdf) |
