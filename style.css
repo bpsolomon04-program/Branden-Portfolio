@@ -214,4 +214,25 @@ footer {
     }
 }
 
+/* --- QR CODE STYLING --- */
+.qr-code-container {
+    text-align: center; 
+    margin-top: 2em;
+    padding: 1em;
+    border: 1px dashed var(--p);
+    border-radius: 8px;
+    background-color: var(--accent-light);
+    max-width: 250px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qr-code-container img {
+    display: block;
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    margin: 10px auto 0;
+    border: 5px solid white; 
+}
 
