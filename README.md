@@ -42,7 +42,7 @@ Here is a comprehensive list of key academic documents and projects demonstratin
 
 | Module | Description | Document Link |
 | :--- | :--- | :--- |
-| Module 4 | Cloud Architecture Planning | [View PDF](Capstone Module 4 - Branden Solomon.pdf) |
+| Module 4 | Cloud Architecture Planning | [View PDF](Capstone%20Module%204%20-%20Branden%20Solomon.pdf) |
 | Module 5 | Service Deployment Strategy | [View PDF](Capstone Module 5 - Branden Solomon.pdf) |
 | Module 6 | Security and Compliance Report | [View PDF](Capstone Module 6 - Branden Solomon.pdf) |
 | Module 7 | Final Report Part 1 | [View PDF](Capstone Module 7 - Branden Solomon.pdf) |
